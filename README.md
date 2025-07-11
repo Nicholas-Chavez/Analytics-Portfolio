@@ -1,3 +1,4 @@
+# Nicholas' Portfolio
 # Project 1: Amazon Sales Metrics
 
 This is a personal project where I cleaned and summarized data in Excel to determine KPIs and selling trends, which was used to create a dashboard.
