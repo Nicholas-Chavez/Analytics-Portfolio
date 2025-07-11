@@ -10,4 +10,4 @@ This is a personal project where I cleaned and summarized data in Excel to deter
 * This project can be viewed through Excel using this URL: [Excel Sheet](https://1drv.ms/x/c/e7e29d8e667b0321/EVC3wAqMEQpCjActGzqQErsBqA9P62a9a8j7Ij_4q1NeHw?e=3yu1p0)
 
 ## Amazon Dashboard
-![](Amazonsales.png)
+
