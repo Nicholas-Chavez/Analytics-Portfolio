@@ -17,3 +17,5 @@ This is a personal project where I cleaned and conducted statistical analysis (e
 * Data was taken from [UC Irvine](https://archive.ics.uci.edu/dataset/352/online+retail) 
 * Displayed results on a [slide deck](https://docs.google.com/presentation/d/1fnZu9937KzlCg_g_PX0a-dWMzycuZgSXVSCKSMC7hEI/present?slide=id.g36209d4ed36_0_0) and [Tableau Dashboard](https://public.tableau.com/views/CustomerSegmentation_17471729818720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * Code available on [github](https://github.com/Nicholas-Chavez/Customer-Segmentation-Analysis/blob/ff833eb3d9a39d1ec8da53d74dbd56a0233bdad9/Customer_Segmentation.qmd)
+![](Segments.png)
+![](Customersegments.png)
