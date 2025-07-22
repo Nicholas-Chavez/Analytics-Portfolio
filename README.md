@@ -8,6 +8,7 @@ This project, where I utilized Python to clean and process data from the DataSF 
 
 ## Dashboard
 
+![](SF_Project_Dashboard.png)
 
 # Project 2: Customer Churning Analysis
 
